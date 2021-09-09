@@ -1,0 +1,17 @@
+[user]
+    email = tony.lee@upstart.com
+    name = Tony Lee
+[init]
+    defaultBranch = master
+[color]
+    ui = auto
+[log]
+    abbrevCommit = true
+    follow = true
+    decorate = false
+[pull]
+    rebase = false
+[push]
+    default = current
+[color "branch"]
+    upstream = cyan
