@@ -1,7 +1,7 @@
 filetype plugin on
 syntax on
 
-"colorscheme OceanicNext
+colorscheme oceanicnext
 
 set nocompatible
 
