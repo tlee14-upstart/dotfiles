@@ -1,6 +1,8 @@
 [user]
     email = tony.lee@upstart.com
     name = Tony Lee
+[core]
+    editor = vim
 [init]
     defaultBranch = master
 [color]
