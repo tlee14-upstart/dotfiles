@@ -1,0 +1,2 @@
+[global]
+extra-index-url = https://$ART_USER:$ART_KEY@upstart.jfrog.io/upstart/api/pypi/pypi/simple
